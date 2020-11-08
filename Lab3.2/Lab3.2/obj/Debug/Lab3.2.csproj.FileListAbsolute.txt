@@ -1,0 +1,7 @@
+C:\Users\mojon\source\repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab3.2\Lab3.2\bin\Debug\Lab3.2.exe.config
+C:\Users\mojon\source\repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab3.2\Lab3.2\bin\Debug\Lab3.2.exe
+C:\Users\mojon\source\repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab3.2\Lab3.2\bin\Debug\Lab3.2.pdb
+C:\Users\mojon\source\repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab3.2\Lab3.2\obj\Debug\Lab3.2.csprojAssemblyReference.cache
+C:\Users\mojon\source\repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab3.2\Lab3.2\obj\Debug\Lab3.2.csproj.CoreCompileInputs.cache
+C:\Users\mojon\source\repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab3.2\Lab3.2\obj\Debug\Lab3.2.exe
+C:\Users\mojon\source\repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab3.2\Lab3.2\obj\Debug\Lab3.2.pdb

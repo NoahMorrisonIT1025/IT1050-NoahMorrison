@@ -1,0 +1,7 @@
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab05\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab05\Lab05\bin\Debug\Lab05.exe
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab05\Lab05\bin\Debug\Lab05.pdb
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab05\Lab05\obj\Debug\Lab05.csprojAssemblyReference.cache
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab05\Lab05\obj\Debug\Lab05.exe
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Lab05\Lab05\obj\Debug\Lab05.pdb

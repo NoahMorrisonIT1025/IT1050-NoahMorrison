@@ -1,0 +1,7 @@
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Ch 7 test 3\Ch 7 test 3\bin\Debug\Ch 7 test 3.exe.config
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Ch 7 test 3\Ch 7 test 3\bin\Debug\Ch 7 test 3.exe
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Ch 7 test 3\Ch 7 test 3\bin\Debug\Ch 7 test 3.pdb
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Ch 7 test 3\Ch 7 test 3\obj\Debug\Ch 7 test 3.csprojAssemblyReference.cache
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Ch 7 test 3\Ch 7 test 3\obj\Debug\Ch 7 test 3.csproj.CoreCompileInputs.cache
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Ch 7 test 3\Ch 7 test 3\obj\Debug\Ch 7 test 3.exe
+C:\Users\mojon\Source\Repos\NoahMorrisonIT1025\IT1050-NoahMorrison\Ch 7 test 3\Ch 7 test 3\obj\Debug\Ch 7 test 3.pdb
